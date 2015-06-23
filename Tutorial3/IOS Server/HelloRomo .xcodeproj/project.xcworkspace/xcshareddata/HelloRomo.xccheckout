@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E6FF688-EDCB-40F6-8907-C9C7A7E3657A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloRomo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA06D69F-5679-4636-BDB4-1E773357C120</key>
+		<string>https://github.com/Romotive/Software.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/SDK/Sample Code/HelloRomo/HelloRomo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA06D69F-5679-4636-BDB4-1E773357C120</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Romotive/Software.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA06D69F-5679-4636-BDB4-1E773357C120</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA06D69F-5679-4636-BDB4-1E773357C120</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Software</string>
+		</dict>
+	</array>
+</dict>
+</plist>
